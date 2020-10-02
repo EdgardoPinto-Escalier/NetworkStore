@@ -1,1 +1,22 @@
+main {
+  min-height: 80vh;
+}
 
+.fa-icon {
+  vertical-align: middle;
+  margin-bottom: 4px;
+  margin-right: 5px;
+}
+
+.fa-icon-title {
+  font-size: 1.5rem;
+  margin-right: 10px;
+  vertical-align: middle;
+  margin-bottom: 7px;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
